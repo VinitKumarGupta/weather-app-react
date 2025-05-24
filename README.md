@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-A modern, responsive Weather App built using **React + Vite** and styled with **Material UI** and a custom theme. It fetches live weather data using the OpenWeatherMap API.
+A simple, dynamic Weather App built using React. It fetches live weather data using the OpenWeatherMap API. Enter any city name in the search bar, hit SEARCH, and get the current weather, temperature, humidity, and condition.
 
 ## 🛠️ Tech Stack
 
